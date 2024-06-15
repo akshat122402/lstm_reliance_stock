@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+tensorflow==2.10.0
+scikit-learn
+alpha_vantage
+db-sqlite3
+plotly
+streamlit
+protobuf==3.19.0
+dotenv
