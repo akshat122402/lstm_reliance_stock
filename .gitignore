@@ -1,2 +1,5 @@
 .env
 env
+docker-compose.yml
+Dockerfile
+script.sh
