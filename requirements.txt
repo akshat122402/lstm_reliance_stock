@@ -8,4 +8,4 @@ db-sqlite3
 plotly
 streamlit
 protobuf==3.19.0
-dotenv
+python-dotenv
